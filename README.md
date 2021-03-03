@@ -1,5 +1,4 @@
-<h1>Blockchain</h1>
-<hr>
+# Blockchain
 
 This blockchain is a finall project from very good course, that I took.
 The course was focused on introduction to this topic.
