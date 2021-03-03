@@ -5,7 +5,7 @@ This blockchain is a finall project from very good course, that I took.
 The course was focused on introduction to this topic.
 Course: https://github.com/erictraub/Learn-Blockchain-By-Building-Your-Own-In-JavaScript
 
-To run this blockchian you whut need Postman for making requests, then run command `npm install`, this command will install all the needed liblaries.
+To run this blockchian you whut need Postman for making requests, then run command `npm install`, this command will install all needed liblaries.
 To start nodes use `npm run node_1` to `npm run node_5`(blockchain will be visible on http://localhost:3001/blockchain to http://localhost:3005/blockchain), after that make request on endpoint `/register-and-broadcast-node` with Postman like this:
 
 ![image](https://user-images.githubusercontent.com/43587802/109873332-e3cbdd00-7c6d-11eb-984d-643dd2f5f944.png)
