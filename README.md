@@ -2,6 +2,7 @@
 
 This blockchain is a finall project from very good course, that I took.
 The course was focused on introduction to this topic.
+
 Course: https://github.com/erictraub/Learn-Blockchain-By-Building-Your-Own-In-JavaScript
 
 To run this blockchian you whut need Postman for making requests, then run command `npm install`, this command will install all needed liblaries.
